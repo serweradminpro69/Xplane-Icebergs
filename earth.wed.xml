@@ -2,323 +2,461 @@
 <!-- written by WED 2.7.2-r1 -->
 <doc>
   <objects>
-    <object class="WED_ObjPlacement" id="112" parent_id="4">
+    <object class="WED_ObjPlacement" id="203" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.534566388" longitude="-37.201152009" heading="170.48"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.511518783" longitude="-37.112530039" heading="139.43"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="111" parent_id="4">
+    <object class="WED_ObjPlacement" id="202" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.535691918" longitude="-37.202513501" heading="89.93"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.512684086" longitude="-37.114636370" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="110" parent_id="4">
+    <object class="WED_ObjPlacement" id="201" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.535577519" longitude="-37.205908618" heading="98.07"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.515888807" longitude="-37.114636945" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="109" parent_id="4">
+    <object class="WED_ObjPlacement" id="200" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.534733788" longitude="-37.204140407" heading="89.93"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.511227220" longitude="-37.118614293" heading="140.22"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="108" parent_id="4">
+    <object class="WED_ObjPlacement" id="199" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.536593787" longitude="-37.200750487" heading="236.21"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.513557870" longitude="-37.119551194" heading="161.58"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="107" parent_id="4">
+    <object class="WED_ObjPlacement" id="198" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.535692675" longitude="-37.201019495" heading="89.93"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.516568408" longitude="-37.118850125" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="106" parent_id="4">
+    <object class="WED_ObjPlacement" id="197" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.532650212" longitude="-37.204269859" heading="32.63"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.512392104" longitude="-37.124699235" heading="198.40"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="105" parent_id="4">
+    <object class="WED_ObjPlacement" id="196" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.533777206" longitude="-37.202779402" heading="179.93"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.514140200" longitude="-37.123998112" heading="179.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="104" parent_id="4">
+    <object class="WED_ObjPlacement" id="195" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.534787162" longitude="-37.209573139" heading="89.92"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.516665399" longitude="-37.120722636" heading="198.40"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="103" parent_id="4">
+    <object class="WED_ObjPlacement" id="194" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.535972558" longitude="-37.204280004" heading="243.34"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.513071213" longitude="-37.130550305" heading="179.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="102" parent_id="4">
+    <object class="WED_ObjPlacement" id="193" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.549045553" longitude="-37.153711798" heading="179.96"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.515207964" longitude="-37.128445572" heading="201.76"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="101" parent_id="4">
+    <object class="WED_ObjPlacement" id="192" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.550397278" longitude="-37.152762730" heading="190.26"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517344808" longitude="-37.125170166" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="100" parent_id="4">
+    <object class="WED_ObjPlacement" id="191" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.550059150" longitude="-37.153713448" heading="163.72"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.516928733" longitude="-37.137200465" heading="258.90"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="99" parent_id="4">
+    <object class="WED_ObjPlacement" id="190" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.551016436" longitude="-37.153715006" heading="183.53"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517471037" longitude="-37.134849168" heading="237.95"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="98" parent_id="4">
+    <object class="WED_ObjPlacement" id="189" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.549045362" longitude="-37.154391240" heading="206.50"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517986219" longitude="-37.132301784" heading="236.27"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="97" parent_id="4">
+    <object class="WED_ObjPlacement" id="188" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.549102236" longitude="-37.152353003" heading="15.89"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.518555575" longitude="-37.129558340" heading="243.40"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="96" parent_id="4">
+    <object class="WED_ObjPlacement" id="187" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.550172363" longitude="-37.151539322" heading="165.94"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.519206168" longitude="-37.127272097" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="95" parent_id="4">
+    <object class="WED_ObjPlacement" id="186" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.549609072" longitude="-37.152217910" heading="108.42"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.518896334" longitude="-37.118789179" heading="216.84"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="94" parent_id="4">
+    <object class="WED_ObjPlacement" id="185" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.550566611" longitude="-37.151268139" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.519950080" longitude="-37.118224735" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="93" parent_id="4">
+    <object class="WED_ObjPlacement" id="184" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560432061" longitude="-37.121373657" heading="224.96"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.520613535" longitude="-37.116437248" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="92" parent_id="4">
+    <object class="WED_ObjPlacement" id="183" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560092579" longitude="-37.122357009" heading="46.30"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.520106027" longitude="-37.111545342" heading="141.38"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="91" parent_id="4">
+    <object class="WED_ObjPlacement" id="182" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560499947" longitude="-37.121537572" heading="201.77"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.520574414" longitude="-37.112862302" heading="135.04"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="90" parent_id="4">
+    <object class="WED_ObjPlacement" id="181" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560952569" longitude="-37.120827386" heading="209.44"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.521120858" longitude="-37.114649694" heading="116.60"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="89" parent_id="4">
+    <object class="WED_ObjPlacement" id="180" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560703649" longitude="-37.120281001" heading="258.09"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.521745330" longitude="-37.116060827" heading="153.46"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="88" parent_id="4">
+    <object class="WED_ObjPlacement" id="179" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560613093" longitude="-37.121701495" heading="85.70"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.522096595" longitude="-37.117283873" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="87" parent_id="4">
+    <object class="WED_ObjPlacement" id="178" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560726275" longitude="-37.120499544" heading="255.94"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.529470870" longitude="-37.094226622" heading="20.56"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="86" parent_id="4">
+    <object class="WED_ObjPlacement" id="177" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560454586" longitude="-37.124214654" heading="69.42"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.528261190" longitude="-37.095357017" heading="18.44"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="85" parent_id="4">
+    <object class="WED_ObjPlacement" id="176" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560839431" longitude="-37.120226382" heading="202.81"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.526817470" longitude="-37.097428507" heading="32.46"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="84" parent_id="4">
+    <object class="WED_ObjPlacement" id="175" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560228376" longitude="-37.121865330" heading="32.44"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.525685858" longitude="-37.098840866" heading="22.61"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="83" parent_id="4">
+    <object class="WED_ObjPlacement" id="174" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560703656" longitude="-37.119953191" heading="238.54"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.524437218" longitude="-37.100817735" heading="31.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="82" parent_id="4">
+    <object class="WED_ObjPlacement" id="173" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560952599" longitude="-37.119188320" heading="90.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.523617826" longitude="-37.102511888" heading="44.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="81" parent_id="4">
+    <object class="WED_ObjPlacement" id="172" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560432074" longitude="-37.120881947" heading="180.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.522486212" longitude="-37.104394276" heading="23.19"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="80" parent_id="4">
+    <object class="WED_ObjPlacement" id="171" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560816814" longitude="-37.119516121" heading="231.31"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.521588726" longitude="-37.106088228" heading="36.85"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="79" parent_id="4">
+    <object class="WED_ObjPlacement" id="170" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.561178908" longitude="-37.118587342" heading="126.90"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.520652219" longitude="-37.108158391" heading="44.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="78" parent_id="4">
+    <object class="WED_ObjPlacement" id="169" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.561224140" longitude="-37.120390336" heading="90.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.519988828" longitude="-37.109381638" heading="44.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="77" parent_id="4">
+    <object class="WED_ObjPlacement" id="168" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560409389" longitude="-37.122684879" heading="69.42"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.519208373" longitude="-37.111169294" heading="48.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="76" parent_id="4">
+    <object class="WED_ObjPlacement" id="167" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.561020434" longitude="-37.121756202" heading="236.85"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.518779150" longitude="-37.113050839" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="75" parent_id="4">
+    <object class="WED_ObjPlacement" id="166" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560658341" longitude="-37.122083948" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517998642" longitude="-37.114462030" heading="30.94"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="74" parent_id="4">
+    <object class="WED_ObjPlacement" id="165" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560137853" longitude="-37.121919948" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517647442" longitude="-37.117095963" heading="68.18"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="73" parent_id="4">
+    <object class="WED_ObjPlacement" id="164" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560364175" longitude="-37.121209743" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517998684" longitude="-37.120670539" heading="107.76"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="72" parent_id="4">
+    <object class="WED_ObjPlacement" id="163" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560545234" longitude="-37.120499521" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.518427969" longitude="-37.121799411" heading="149.06"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="71" parent_id="4">
+    <object class="WED_ObjPlacement" id="162" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.560884677" longitude="-37.120882012" heading="132.02"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.518896287" longitude="-37.122363898" heading="161.58"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="59" parent_id="4">
+    <object class="WED_ObjPlacement" id="161" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.550042181" longitude="-37.151005961" heading="61.34"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.519950042" longitude="-37.121987749" heading="188.12"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="58" parent_id="4">
+    <object class="WED_ObjPlacement" id="160" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.549056618" longitude="-37.154041496" heading="49.16"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.520730619" longitude="-37.120670756" heading="210.93"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="57" parent_id="4">
+    <object class="WED_ObjPlacement" id="159" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.549619733" longitude="-37.152355250" heading="179.80"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.522135624" longitude="-37.117472037" heading="222.85"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="56" parent_id="4">
+    <object class="WED_ObjPlacement" id="158" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.549477077" longitude="-37.154045143" heading="44.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.522994202" longitude="-37.115402101" heading="208.59"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="55" parent_id="4">
+    <object class="WED_ObjPlacement" id="157" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.549477077" longitude="-37.154045143" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.523930798" longitude="-37.113049743" heading="229.06"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="54" parent_id="4">
+    <object class="WED_ObjPlacement" id="156" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.542867059" longitude="-37.168865911" heading="243.19"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.524828392" longitude="-37.112014529" heading="212.45"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="53" parent_id="4">
+    <object class="WED_ObjPlacement" id="155" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.541467668" longitude="-37.167500495" heading="281.10"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.525452777" longitude="-37.110791134" heading="180.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="52" parent_id="4">
+    <object class="WED_ObjPlacement" id="154" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.538801021" longitude="-37.169842593" heading="359.78"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.526272224" longitude="-37.108532533" heading="246.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="51" parent_id="4">
+    <object class="WED_ObjPlacement" id="153" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.541741530" longitude="-37.171560501" heading="162.70"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.526740477" longitude="-37.107403154" heading="224.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="50" parent_id="4">
+    <object class="WED_ObjPlacement" id="152" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.541317810" longitude="-37.173585254" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.527559954" longitude="-37.106085362" heading="206.55"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="49" parent_id="4">
+    <object class="WED_ObjPlacement" id="151" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.540055889" longitude="-37.173911465" heading="291.60"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.528301331" longitude="-37.104391108" heading="231.32"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="150" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.529081793" longitude="-37.103449599" heading="180.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="149" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.530291563" longitude="-37.102601882" heading="180.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="148" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531032975" longitude="-37.101566159" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="147" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.530691809" longitude="-37.095109883" heading="333.47"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="146" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.530378088" longitude="-37.094693991" heading="336.07"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="145" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.529923081" longitude="-37.092916616" heading="305.04"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="144" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.529906893" longitude="-37.088378078" heading="270.02"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="143" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.530173138" longitude="-37.085503440" heading="246.03"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="142" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.530659292" longitude="-37.085086984" heading="183.59"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="141" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531678555" longitude="-37.083648803" heading="201.45"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="140" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.532243168" longitude="-37.083496988" heading="180.02"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="139" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.533184347" longitude="-37.084252640" heading="158.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="138" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.533890339" longitude="-37.085575956" heading="153.48"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="137" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534392583" longitude="-37.088109991" heading="108.47"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="136" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534439790" longitude="-37.089358273" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="135" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534267489" longitude="-37.091363254" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="134" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.533390018" longitude="-37.106267351" heading="0.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="133" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.532778326" longitude="-37.105964777" heading="338.22"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="132" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.532276428" longitude="-37.106116106" heading="8.74"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="131" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531805893" longitude="-37.105662243" heading="336.83"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="130" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531398063" longitude="-37.103695456" heading="289.46"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="129" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531241188" longitude="-37.102598607" heading="284.95"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="128" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531115640" longitude="-37.100707482" heading="270.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_Root" id="1" parent_id="0">
       <children>
@@ -328,460 +466,205 @@
       </children>
       <hierarchy name="root"/>
     </object>
-    <object class="WED_ObjPlacement" id="60" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.557372575" longitude="-37.119942658" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="14" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.520264956" longitude="-37.191292849" heading="359.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="15" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.521804285" longitude="-37.192659853" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="16" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.520396245" longitude="-37.196361888" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="17" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.522502687" longitude="-37.194018440" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="18" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.523200483" longitude="-37.195714978" heading="240.67"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="19" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.520954462" longitude="-37.197719052" heading="89.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="20" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.521664132" longitude="-37.192658430" heading="341.34"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="21" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.524042586" longitude="-37.195047834" heading="269.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="22" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.523054945" longitude="-37.198754423" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="23" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.523904211" longitude="-37.194032737" heading="359.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="24" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.523484935" longitude="-37.193352685" heading="179.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="25" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.523065067" longitude="-37.193010530" heading="13.78"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="26" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.525164990" longitude="-37.194383509" heading="213.42"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="27" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.524320510" longitude="-37.196402274" heading="279.23"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="70" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.559064030" longitude="-37.112173105" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="11" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.521237159" longitude="-37.196370541" heading="134.79"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="69" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.559352375" longitude="-37.105408098" heading="359.84"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="10" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.522358378" longitude="-37.196382080" heading="179.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="68" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.559483670" longitude="-37.112852780" heading="108.29"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="9" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.522783583" longitude="-37.193683427" heading="308.45"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="29" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.526137693" longitude="-37.199124356" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="67" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.559895760" longitude="-37.119622893" heading="78.50"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="8" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.522364894" longitude="-37.192665542" heading="314.79"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="28" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.524455262" longitude="-37.199444763" heading="359.75"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="66" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.558911687" longitude="-37.121984079" heading="38.45"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="7" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.521383239" longitude="-37.192993440" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="65" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.559187643" longitude="-37.125369637" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="6" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.518296934" longitude="-37.194651187" heading="348.46"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="64" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.559341867" longitude="-37.114205182" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="5" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.520558523" longitude="-37.183525271" heading="243.18"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="63" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.558631811" longitude="-37.121643652" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
     <object class="WED_Group" id="4" parent_id="1">
       <children>
-        <child id="70"/>
-        <child id="69"/>
-        <child id="68"/>
-        <child id="67"/>
-        <child id="66"/>
-        <child id="65"/>
-        <child id="64"/>
-        <child id="63"/>
-        <child id="62"/>
-        <child id="61"/>
-        <child id="60"/>
-        <child id="59"/>
-        <child id="58"/>
-        <child id="57"/>
-        <child id="56"/>
-        <child id="55"/>
-        <child id="54"/>
-        <child id="53"/>
-        <child id="52"/>
-        <child id="51"/>
-        <child id="50"/>
-        <child id="49"/>
-        <child id="48"/>
-        <child id="47"/>
-        <child id="46"/>
-        <child id="45"/>
-        <child id="44"/>
-        <child id="43"/>
-        <child id="42"/>
-        <child id="41"/>
-        <child id="40"/>
-        <child id="112"/>
-        <child id="111"/>
-        <child id="110"/>
-        <child id="109"/>
-        <child id="108"/>
-        <child id="107"/>
-        <child id="106"/>
-        <child id="105"/>
-        <child id="104"/>
-        <child id="103"/>
-        <child id="102"/>
-        <child id="101"/>
-        <child id="100"/>
-        <child id="99"/>
-        <child id="98"/>
-        <child id="97"/>
-        <child id="96"/>
-        <child id="95"/>
-        <child id="94"/>
-        <child id="93"/>
-        <child id="92"/>
-        <child id="91"/>
-        <child id="90"/>
-        <child id="89"/>
-        <child id="88"/>
-        <child id="87"/>
-        <child id="86"/>
-        <child id="85"/>
-        <child id="84"/>
-        <child id="83"/>
-        <child id="82"/>
-        <child id="81"/>
-        <child id="80"/>
-        <child id="79"/>
-        <child id="78"/>
-        <child id="77"/>
-        <child id="76"/>
-        <child id="75"/>
-        <child id="74"/>
-        <child id="73"/>
-        <child id="72"/>
-        <child id="71"/>
-        <child id="39"/>
-        <child id="38"/>
-        <child id="37"/>
-        <child id="36"/>
-        <child id="35"/>
-        <child id="34"/>
-        <child id="33"/>
-        <child id="32"/>
-        <child id="31"/>
-        <child id="30"/>
-        <child id="29"/>
-        <child id="28"/>
-        <child id="27"/>
-        <child id="26"/>
-        <child id="25"/>
-        <child id="24"/>
-        <child id="23"/>
-        <child id="22"/>
-        <child id="21"/>
-        <child id="20"/>
-        <child id="19"/>
-        <child id="18"/>
-        <child id="17"/>
-        <child id="16"/>
-        <child id="15"/>
-        <child id="14"/>
-        <child id="13"/>
-        <child id="12"/>
-        <child id="11"/>
-        <child id="10"/>
-        <child id="9"/>
-        <child id="8"/>
-        <child id="7"/>
-        <child id="6"/>
-        <child id="5"/>
+        <child id="203"/>
+        <child id="202"/>
+        <child id="201"/>
+        <child id="200"/>
+        <child id="199"/>
+        <child id="198"/>
+        <child id="197"/>
+        <child id="196"/>
+        <child id="195"/>
+        <child id="194"/>
+        <child id="193"/>
+        <child id="192"/>
+        <child id="191"/>
+        <child id="190"/>
+        <child id="189"/>
+        <child id="188"/>
+        <child id="187"/>
+        <child id="186"/>
+        <child id="185"/>
+        <child id="184"/>
+        <child id="183"/>
+        <child id="182"/>
+        <child id="181"/>
+        <child id="180"/>
+        <child id="179"/>
+        <child id="178"/>
+        <child id="177"/>
+        <child id="176"/>
+        <child id="175"/>
+        <child id="174"/>
+        <child id="173"/>
+        <child id="172"/>
+        <child id="171"/>
+        <child id="170"/>
+        <child id="169"/>
+        <child id="168"/>
+        <child id="167"/>
+        <child id="166"/>
+        <child id="165"/>
+        <child id="164"/>
+        <child id="163"/>
+        <child id="162"/>
+        <child id="161"/>
+        <child id="160"/>
+        <child id="159"/>
+        <child id="158"/>
+        <child id="157"/>
+        <child id="156"/>
+        <child id="155"/>
+        <child id="154"/>
+        <child id="153"/>
+        <child id="152"/>
+        <child id="151"/>
+        <child id="150"/>
+        <child id="149"/>
+        <child id="148"/>
+        <child id="147"/>
+        <child id="146"/>
+        <child id="145"/>
+        <child id="144"/>
+        <child id="143"/>
+        <child id="142"/>
+        <child id="141"/>
+        <child id="140"/>
+        <child id="139"/>
+        <child id="138"/>
+        <child id="137"/>
+        <child id="136"/>
+        <child id="135"/>
+        <child id="134"/>
+        <child id="133"/>
+        <child id="132"/>
+        <child id="131"/>
+        <child id="130"/>
+        <child id="129"/>
+        <child id="128"/>
+        <child id="127"/>
+        <child id="126"/>
+        <child id="125"/>
+        <child id="124"/>
+        <child id="123"/>
+        <child id="122"/>
+        <child id="121"/>
+        <child id="120"/>
+        <child id="119"/>
+        <child id="118"/>
+        <child id="117"/>
+        <child id="116"/>
+        <child id="115"/>
+        <child id="114"/>
+        <child id="113"/>
       </children>
       <hierarchy name="world" locked="0" hidden="0"/>
-    </object>
-    <object class="WED_ObjPlacement" id="62" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.559758991" longitude="-37.116915025" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
     </object>
     <object class="WED_KeyObjects" id="3" parent_id="1">
       <children/>
       <hierarchy name="choices"/>
-      <keys/>
-    </object>
-    <object class="WED_ObjPlacement" id="61" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.558212640" longitude="-37.120625523" heading="39.60"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <keys>
+        <key name="airport" id="0"/>
+      </keys>
     </object>
     <object class="WED_Select" id="2" parent_id="1">
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="112"/>
+        <sel id="203"/>
       </selection>
     </object>
-    <object class="WED_ObjPlacement" id="12" parent_id="4">
+    <object class="WED_ObjPlacement" id="113" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.520958641" longitude="-37.195354111" heading="89.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534250846" longitude="-37.105387322" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="13" parent_id="4">
+    <object class="WED_ObjPlacement" id="114" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.519560079" longitude="-37.193650591" heading="153.22"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534765612" longitude="-37.102450122" heading="270.02"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="30" parent_id="4">
+    <object class="WED_ObjPlacement" id="115" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.526562350" longitude="-37.196763278" heading="89.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534958270" longitude="-37.099949907" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="31" parent_id="4">
+    <object class="WED_ObjPlacement" id="116" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.525292542" longitude="-37.201480946" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534769724" longitude="-37.094918801" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="32" parent_id="4">
+    <object class="WED_ObjPlacement" id="117" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.526695279" longitude="-37.200819800" heading="288.21"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534393375" longitude="-37.095864676" heading="251.56"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="33" parent_id="4">
+    <object class="WED_ObjPlacement" id="118" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.527251012" longitude="-37.203529108" heading="81.61"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534895380" longitude="-37.097339762" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="34" parent_id="4">
+    <object class="WED_ObjPlacement" id="119" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.527856556" longitude="-37.177513796" heading="89.77"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.534361770" longitude="-37.093103269" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="35" parent_id="4">
+    <object class="WED_ObjPlacement" id="120" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.536443863" longitude="-37.153256012" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.533687357" longitude="-37.093254949" heading="203.95"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="36" parent_id="4">
+    <object class="WED_ObjPlacement" id="121" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.536443863" longitude="-37.153256012" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.533263922" longitude="-37.093709093" heading="180.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="37" parent_id="4">
+    <object class="WED_ObjPlacement" id="122" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.535460784" longitude="-37.154599687" heading="185.50"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.532809082" longitude="-37.093784985" heading="198.43"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="38" parent_id="4">
+    <object class="WED_ObjPlacement" id="123" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.533357988" longitude="-37.154919425" heading="359.79"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.532354267" longitude="-37.094125648" heading="199.64"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="39" parent_id="4">
+    <object class="WED_ObjPlacement" id="124" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.534897137" longitude="-37.156622999" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531554451" longitude="-37.095147296" heading="212.45"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="40" parent_id="4">
+    <object class="WED_ObjPlacement" id="125" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.536717596" longitude="-37.157653142" heading="314.82"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531083969" longitude="-37.095752686" heading="258.69"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="41" parent_id="4">
+    <object class="WED_ObjPlacement" id="126" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.537698154" longitude="-37.157999853" heading="359.79"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531084096" longitude="-37.097530364" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="42" parent_id="4">
+    <object class="WED_ObjPlacement" id="127" parent_id="4">
       <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.535321135" longitude="-37.154260433" heading="179.79"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="43" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.534901681" longitude="-37.153580722" heading="28.07"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="44" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.537563077" longitude="-37.154617964" heading="303.51"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="45" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.538262326" longitude="-37.155638280" heading="314.83"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="46" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.541746907" longitude="-37.168179309" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="47" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.541045609" longitude="-37.168510961" heading="179.78"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="48" parent_id="4">
-      <children/>
-      <hierarchy name="icetestv1.0.obj" locked="0" hidden="0"/>
-      <point latitude="65.539785835" longitude="-37.167485040" heading="179.78"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/icetestv1.0.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531037118" longitude="-37.098740714" heading="279.48"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
   </objects>
   <prefs>
@@ -789,17 +672,17 @@
     <pref name="doc/export_target" value="7"/>
     <pref name="doc/xml_compatibility" value="205"/>
     <pref name="export/last" value="+60-040/+65-038.dsf"/>
-    <pref name="map/east" value="-36.989449"/>
+    <pref name="map/east" value="-36.853619"/>
     <pref name="map/navaid_map_vis" value="0"/>
-    <pref name="map/north" value="65.607452"/>
+    <pref name="map/north" value="65.640190"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="4"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="0"/>
-    <pref name="map/south" value="65.530243"/>
+    <pref name="map/south" value="65.506935"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="-37.259930"/>
+    <pref name="map/west" value="-37.366295"/>
     <pref name="map/world_map_vis" value="1"/>
     <pref name="map_Airport Beacon_Kind" value="133"/>
     <pref name="map_Autogen_Autogen Height" value="10.000000"/>
@@ -825,7 +708,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="63"/>
     <pref name="map_Lines_Resource" value=""/>
-    <pref name="map_Objects_Object" value="models/icetestv1.0.obj"/>
+    <pref name="map_Objects_Object" value="models/size3.obj"/>
     <pref name="map_Objects_Show with" value="810"/>
     <pref name="map_Objects_max Heading" value="0.000000"/>
     <pref name="map_Objects_min Heading" value="0.000000"/>
@@ -896,9 +779,9 @@
     <pref name="map_preview_window/y_loc" value="727"/>
     <pref name="window/height" value="1416"/>
     <pref name="window/main_split" value="204"/>
-    <pref name="window/main_split2" value="2279"/>
-    <pref name="window/prev_split" value="296"/>
-    <pref name="window/prop_split" value="739"/>
+    <pref name="window/main_split2" value="2473"/>
+    <pref name="window/prev_split" value="287"/>
+    <pref name="window/prop_split" value="748"/>
     <pref name="window/width" value="2560"/>
     <pref name="window/x_loc" value="0"/>
     <pref name="window/y_loc" value="0"/>
