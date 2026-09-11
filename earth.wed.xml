@@ -2,11 +2,383 @@
 <!-- written by WED 2.7.2-r1 -->
 <doc>
   <objects>
+    <object class="WED_ObjPlacement" id="372" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.488879137" longitude="-36.835723345" heading="82.85"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="371" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.490426832" longitude="-36.834520170" heading="215.17"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="370" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.491396127" longitude="-36.833467007" heading="63.39"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="369" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.493599938" longitude="-36.835501195" heading="196.66"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="368" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.490566817" longitude="-36.839413124" heading="47.81"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="367" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.489755472" longitude="-36.826540814" heading="273.70"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="366" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.488458039" longitude="-36.826577887" heading="104.04"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="202" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.512684086" longitude="-37.114636370" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="201" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.515888807" longitude="-37.114636945" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="200" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.511227220" longitude="-37.118614293" heading="140.22"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="199" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.513557870" longitude="-37.119551194" heading="161.58"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="198" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.516568408" longitude="-37.118850125" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="236" parent_id="4">
+      <children/>
+      <hierarchy name="size6.obj" locked="0" hidden="0"/>
+      <point latitude="65.475304122" longitude="-36.916478931" heading="24.68"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="237" parent_id="4">
+      <children/>
+      <hierarchy name="size6.obj" locked="0" hidden="0"/>
+      <point latitude="65.490084199" longitude="-36.895603471" heading="18.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="238" parent_id="4">
+      <children/>
+      <hierarchy name="size6.obj" locked="0" hidden="0"/>
+      <point latitude="65.503120565" longitude="-36.885864825" heading="19.38"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="239" parent_id="4">
+      <children/>
+      <hierarchy name="size6.obj" locked="0" hidden="0"/>
+      <point latitude="65.475859693" longitude="-36.953419269" heading="111.72"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="240" parent_id="4">
+      <children/>
+      <hierarchy name="size6.obj" locked="0" hidden="0"/>
+      <point latitude="65.474130064" longitude="-36.942261047" heading="138.31"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="241" parent_id="4">
+      <children/>
+      <hierarchy name="size6.obj" locked="0" hidden="0"/>
+      <point latitude="65.469214643" longitude="-36.929699357" heading="134.95"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="242" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.520943596" longitude="-36.774384531" heading="89.95"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="243" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.517718423" longitude="-36.792314878" heading="224.90"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="244" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.513696086" longitude="-36.791819486" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="245" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.520495529" longitude="-36.782989382" heading="89.97"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="246" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.511085426" longitude="-36.789521725" heading="135.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="247" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.509729462" longitude="-36.781105975" heading="89.97"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="248" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.509536445" longitude="-36.775964084" heading="68.15"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="249" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.511671325" longitude="-36.769421762" heading="31.96"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="250" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.515066545" longitude="-36.766151659" heading="359.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="251" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.517879077" longitude="-36.768958861" heading="324.48"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="252" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.516715858" longitude="-36.761944724" heading="359.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="253" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.517201255" longitude="-36.754230197" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="254" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.515455371" longitude="-36.746515662" heading="151.42"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="255" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.511381522" longitude="-36.744646347" heading="194.02"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="256" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.507889776" longitude="-36.748386187" heading="240.23"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="257" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.506628512" longitude="-36.759836854" heading="297.77"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="262" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.496339204" longitude="-36.799543808" heading="200.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="263" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.492555370" longitude="-36.802572874" heading="131.17"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="264" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.492170350" longitude="-36.793229842" heading="64.47"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="265" parent_id="4">
+      <children/>
+      <hierarchy name="size5.obj" locked="0" hidden="0"/>
+      <point latitude="65.495956150" longitude="-36.781089452" heading="38.10"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="169" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.519988828" longitude="-37.109381638" heading="44.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="296" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.466878466" longitude="-36.951109990" heading="203.88"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="170" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.520652219" longitude="-37.108158391" heading="44.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="297" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.465747096" longitude="-36.953169925" heading="202.53"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="171" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.521588726" longitude="-37.106088228" heading="36.85"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="298" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.463953030" longitude="-36.955227861" heading="206.47"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="172" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.522486212" longitude="-37.104394276" heading="23.19"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="299" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.462821787" longitude="-36.956912364" heading="220.14"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="173" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.523617826" longitude="-37.102511888" heading="44.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="300" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.462002555" longitude="-36.958222605" heading="179.93"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="174" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.524437218" longitude="-37.100817735" heading="31.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="301" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.456912983" longitude="-36.956702193" heading="179.81"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="302" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.453074738" longitude="-36.954711862" heading="134.84"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="303" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.452273723" longitude="-36.944631085" heading="40.97"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="304" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.458351349" longitude="-36.924804632" heading="30.06"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="305" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.465114910" longitude="-36.913932537" heading="28.87"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="306" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.469779916" longitude="-36.905562213" heading="326.19"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="307" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.455043091" longitude="-36.962004455" heading="206.34"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="308" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.453639829" longitude="-36.966470395" heading="278.33"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="309" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.455950345" longitude="-36.977965268" heading="341.37"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="310" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.462576440" longitude="-36.983343937" heading="354.08"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="311" parent_id="4">
+      <children/>
+      <hierarchy name="size2.obj" locked="0" hidden="0"/>
+      <point latitude="65.470492976" longitude="-36.982296626" heading="21.56"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="197" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.512392104" longitude="-37.124699235" heading="198.40"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="324" parent_id="4">
       <children/>
       <hierarchy name="size1.obj" locked="0" hidden="0"/>
       <point latitude="65.500679129" longitude="-36.799928698" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="196" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.514140200" longitude="-37.123998112" heading="179.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="323" parent_id="4">
       <children/>
@@ -14,11 +386,23 @@
       <point latitude="65.498768486" longitude="-36.803776389" heading="89.98"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size1.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="195" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.516665399" longitude="-37.120722636" heading="198.40"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="322" parent_id="4">
       <children/>
       <hierarchy name="size1.obj" locked="0" hidden="0"/>
       <point latitude="65.496038837" longitude="-36.809218471" heading="23.91"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="194" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.513071213" longitude="-37.130550305" heading="179.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="321" parent_id="4">
       <children/>
@@ -26,17 +410,35 @@
       <point latitude="65.490892473" longitude="-36.813529757" heading="27.70"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size1.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="193" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.515207964" longitude="-37.128445572" heading="201.76"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="320" parent_id="4">
       <children/>
       <hierarchy name="size1.obj" locked="0" hidden="0"/>
       <point latitude="65.488827474" longitude="-36.809116044" heading="315.00"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size1.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="192" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517344808" longitude="-37.125170166" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="319" parent_id="4">
       <children/>
       <hierarchy name="size1.obj" locked="0" hidden="0"/>
       <point latitude="65.489686212" longitude="-36.802735102" heading="236.26"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="191" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.516928733" longitude="-37.137200465" heading="258.90"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="318" parent_id="4">
       <children/>
@@ -80,101 +482,11 @@
       <point latitude="65.478190961" longitude="-36.972002754" heading="359.79"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="311" parent_id="4">
+    <object class="WED_ObjPlacement" id="168" parent_id="4">
       <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.470492976" longitude="-36.982296626" heading="21.56"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="310" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.462576440" longitude="-36.983343937" heading="354.08"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="309" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.455950345" longitude="-36.977965268" heading="341.37"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="308" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.453639829" longitude="-36.966470395" heading="278.33"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="307" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.455043091" longitude="-36.962004455" heading="206.34"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="306" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.469779916" longitude="-36.905562213" heading="326.19"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="305" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.465114910" longitude="-36.913932537" heading="28.87"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="304" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.458351349" longitude="-36.924804632" heading="30.06"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="303" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.452273723" longitude="-36.944631085" heading="40.97"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="302" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.453074738" longitude="-36.954711862" heading="134.84"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="301" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.456912983" longitude="-36.956702193" heading="179.81"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="300" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.462002555" longitude="-36.958222605" heading="179.93"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="299" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.462821787" longitude="-36.956912364" heading="220.14"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="298" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.463953030" longitude="-36.955227861" heading="206.47"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="297" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.465747096" longitude="-36.953169925" heading="202.53"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="296" parent_id="4">
-      <children/>
-      <hierarchy name="size2.obj" locked="0" hidden="0"/>
-      <point latitude="65.466878466" longitude="-36.951109990" heading="203.88"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.519208373" longitude="-37.111169294" heading="48.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="295" parent_id="4">
       <children/>
@@ -182,11 +494,23 @@
       <point latitude="65.467970418" longitude="-36.949987524" heading="208.97"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="167" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.518779150" longitude="-37.113050839" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="294" parent_id="4">
       <children/>
       <hierarchy name="size2.obj" locked="0" hidden="0"/>
       <point latitude="65.469335747" longitude="-36.947646515" heading="198.36"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="166" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517998642" longitude="-37.114462030" heading="30.94"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="293" parent_id="4">
       <children/>
@@ -194,11 +518,23 @@
       <point latitude="65.470505713" longitude="-36.946336420" heading="198.36"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size2.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="165" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517647442" longitude="-37.117095963" heading="68.18"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="292" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.489070627" longitude="-36.724567282" heading="116.61"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="164" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.517998684" longitude="-37.120670539" heading="107.76"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="291" parent_id="4">
       <children/>
@@ -206,11 +542,23 @@
       <point latitude="65.489847162" longitude="-36.728303101" heading="0.02"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="163" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.518427969" longitude="-37.121799411" heading="149.06"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="290" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.497213962" longitude="-36.705871299" heading="41.19"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="162" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.518896287" longitude="-37.122363898" heading="161.58"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="289" parent_id="4">
       <children/>
@@ -218,11 +566,23 @@
       <point latitude="65.487905359" longitude="-36.717562863" heading="32.20"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="161" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.519950042" longitude="-37.121987749" heading="188.12"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="288" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.485871258" longitude="-36.736011871" heading="90.02"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="160" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.520730619" longitude="-37.120670756" heading="210.93"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="287" parent_id="4">
       <children/>
@@ -230,11 +590,23 @@
       <point latitude="65.487714359" longitude="-36.738346063" heading="192.99"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="159" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.522135624" longitude="-37.117472037" heading="222.85"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="286" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.494405359" longitude="-36.724562129" heading="222.50"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="158" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.522994202" longitude="-37.115402101" heading="208.59"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="285" parent_id="4">
       <children/>
@@ -242,11 +614,23 @@
       <point latitude="65.500030410" longitude="-36.720818666" heading="187.14"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="157" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.523930798" longitude="-37.113049743" heading="229.06"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="284" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.498568405" longitude="-36.695122795" heading="339.51"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="156" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.524828392" longitude="-37.112014529" heading="212.45"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="283" parent_id="4">
       <children/>
@@ -254,11 +638,23 @@
       <point latitude="65.495945787" longitude="-36.685551091" heading="256.00"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="155" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.525452777" longitude="-37.110791134" heading="180.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="282" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.500694191" longitude="-36.675960467" heading="195.57"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="154" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.526272224" longitude="-37.108532533" heading="246.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="281" parent_id="4">
       <children/>
@@ -266,11 +662,23 @@
       <point latitude="65.506030908" longitude="-36.680151617" heading="135.10"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="153" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.526740477" longitude="-37.107403154" heading="224.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="280" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.505647111" longitude="-36.689967074" heading="78.73"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="152" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.527559954" longitude="-37.106085362" heading="206.55"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="279" parent_id="4">
       <children/>
@@ -278,11 +686,23 @@
       <point latitude="65.511374198" longitude="-36.702341540" heading="278.80"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="151" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.528301331" longitude="-37.104391108" heading="231.32"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="278" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.505939950" longitude="-36.694873674" heading="0.05"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="150" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.529081793" longitude="-37.103449599" heading="180.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="277" parent_id="4">
       <children/>
@@ -290,11 +710,23 @@
       <point latitude="65.500900996" longitude="-36.710304150" heading="60.65"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="149" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.530291563" longitude="-37.102601882" heading="180.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="276" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.501680147" longitude="-36.725489663" heading="106.74"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="148" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.531032975" longitude="-37.101566159" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="275" parent_id="4">
       <children/>
@@ -302,17 +734,35 @@
       <point latitude="65.506336591" longitude="-36.730158989" heading="169.25"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="147" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.530691809" longitude="-37.095109883" heading="333.47"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="274" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.509730435" longitude="-36.723612458" heading="228.56"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="146" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.530378088" longitude="-37.094693991" heading="336.07"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="273" parent_id="4">
       <children/>
       <hierarchy name="size4.obj" locked="0" hidden="0"/>
       <point latitude="65.511474611" longitude="-36.714962731" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="145" parent_id="4">
+      <children/>
+      <hierarchy name="size3.obj" locked="0" hidden="0"/>
+      <point latitude="65.529923081" longitude="-37.092916616" heading="305.04"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="272" parent_id="4">
       <children/>
@@ -355,414 +805,6 @@
       <hierarchy name="size5.obj" locked="0" hidden="0"/>
       <point latitude="65.500225144" longitude="-36.774552977" heading="24.18"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="265" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.495956150" longitude="-36.781089452" heading="38.10"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="264" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.492170350" longitude="-36.793229842" heading="64.47"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="263" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.492555370" longitude="-36.802572874" heading="131.17"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="262" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.496339204" longitude="-36.799543808" heading="200.79"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="257" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.506628512" longitude="-36.759836854" heading="297.77"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="256" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.507889776" longitude="-36.748386187" heading="240.23"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="255" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.511381522" longitude="-36.744646347" heading="194.02"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="254" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.515455371" longitude="-36.746515662" heading="151.42"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="253" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.517201255" longitude="-36.754230197" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="252" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.516715858" longitude="-36.761944724" heading="359.99"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="251" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.517879077" longitude="-36.768958861" heading="324.48"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="250" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.515066545" longitude="-36.766151659" heading="359.99"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="249" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.511671325" longitude="-36.769421762" heading="31.96"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="248" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.509536445" longitude="-36.775964084" heading="68.15"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="247" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.509729462" longitude="-36.781105975" heading="89.97"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="246" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.511085426" longitude="-36.789521725" heading="135.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="245" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.520495529" longitude="-36.782989382" heading="89.97"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="244" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.513696086" longitude="-36.791819486" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="243" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.517718423" longitude="-36.792314878" heading="224.90"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="242" parent_id="4">
-      <children/>
-      <hierarchy name="size5.obj" locked="0" hidden="0"/>
-      <point latitude="65.520943596" longitude="-36.774384531" heading="89.95"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size5.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="241" parent_id="4">
-      <children/>
-      <hierarchy name="size6.obj" locked="0" hidden="0"/>
-      <point latitude="65.469214643" longitude="-36.929699357" heading="134.95"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="240" parent_id="4">
-      <children/>
-      <hierarchy name="size6.obj" locked="0" hidden="0"/>
-      <point latitude="65.474130064" longitude="-36.942261047" heading="138.31"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="239" parent_id="4">
-      <children/>
-      <hierarchy name="size6.obj" locked="0" hidden="0"/>
-      <point latitude="65.475859693" longitude="-36.953419269" heading="111.72"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="238" parent_id="4">
-      <children/>
-      <hierarchy name="size6.obj" locked="0" hidden="0"/>
-      <point latitude="65.503120565" longitude="-36.885864825" heading="19.38"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="237" parent_id="4">
-      <children/>
-      <hierarchy name="size6.obj" locked="0" hidden="0"/>
-      <point latitude="65.490084199" longitude="-36.895603471" heading="18.36"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="236" parent_id="4">
-      <children/>
-      <hierarchy name="size6.obj" locked="0" hidden="0"/>
-      <point latitude="65.475304122" longitude="-36.916478931" heading="24.68"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="145" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.529923081" longitude="-37.092916616" heading="305.04"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="146" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.530378088" longitude="-37.094693991" heading="336.07"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="147" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.530691809" longitude="-37.095109883" heading="333.47"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="148" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.531032975" longitude="-37.101566159" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="149" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.530291563" longitude="-37.102601882" heading="180.01"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="150" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.529081793" longitude="-37.103449599" heading="180.01"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="151" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.528301331" longitude="-37.104391108" heading="231.32"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="152" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.527559954" longitude="-37.106085362" heading="206.55"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="153" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.526740477" longitude="-37.107403154" heading="224.98"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="154" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.526272224" longitude="-37.108532533" heading="246.79"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="155" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.525452777" longitude="-37.110791134" heading="180.01"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="156" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.524828392" longitude="-37.112014529" heading="212.45"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="157" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.523930798" longitude="-37.113049743" heading="229.06"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="158" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.522994202" longitude="-37.115402101" heading="208.59"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="159" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.522135624" longitude="-37.117472037" heading="222.85"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="160" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.520730619" longitude="-37.120670756" heading="210.93"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="161" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.519950042" longitude="-37.121987749" heading="188.12"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="162" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.518896287" longitude="-37.122363898" heading="161.58"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="163" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.518427969" longitude="-37.121799411" heading="149.06"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="164" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.517998684" longitude="-37.120670539" heading="107.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="165" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.517647442" longitude="-37.117095963" heading="68.18"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="166" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.517998642" longitude="-37.114462030" heading="30.94"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="167" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.518779150" longitude="-37.113050839" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="168" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.519208373" longitude="-37.111169294" heading="48.79"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="169" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.519988828" longitude="-37.109381638" heading="44.98"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="170" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.520652219" longitude="-37.108158391" heading="44.98"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="171" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.521588726" longitude="-37.106088228" heading="36.85"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="172" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.522486212" longitude="-37.104394276" heading="23.19"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="173" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.523617826" longitude="-37.102511888" heading="44.98"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="174" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.524437218" longitude="-37.100817735" heading="31.99"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="191" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.516928733" longitude="-37.137200465" heading="258.90"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="192" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.517344808" longitude="-37.125170166" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="193" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.515207964" longitude="-37.128445572" heading="201.76"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="194" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.513071213" longitude="-37.130550305" heading="179.98"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="195" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.516665399" longitude="-37.120722636" heading="198.40"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="196" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.514140200" longitude="-37.123998112" heading="179.99"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="197" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.512392104" longitude="-37.124699235" heading="198.40"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="198" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.516568408" longitude="-37.118850125" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="199" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.513557870" longitude="-37.119551194" heading="161.58"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="200" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.511227220" longitude="-37.118614293" heading="140.22"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="201" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.515888807" longitude="-37.114636945" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="202" parent_id="4">
-      <children/>
-      <hierarchy name="size3.obj" locked="0" hidden="0"/>
-      <point latitude="65.512684086" longitude="-37.114636370" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="models/size3.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="203" parent_id="4">
       <children/>
@@ -958,6 +1000,53 @@
     </object>
     <object class="WED_Group" id="4" parent_id="1">
       <children>
+        <child id="372"/>
+        <child id="371"/>
+        <child id="370"/>
+        <child id="369"/>
+        <child id="368"/>
+        <child id="367"/>
+        <child id="366"/>
+        <child id="365"/>
+        <child id="364"/>
+        <child id="363"/>
+        <child id="362"/>
+        <child id="361"/>
+        <child id="360"/>
+        <child id="359"/>
+        <child id="358"/>
+        <child id="357"/>
+        <child id="356"/>
+        <child id="355"/>
+        <child id="354"/>
+        <child id="353"/>
+        <child id="352"/>
+        <child id="351"/>
+        <child id="350"/>
+        <child id="349"/>
+        <child id="348"/>
+        <child id="347"/>
+        <child id="346"/>
+        <child id="345"/>
+        <child id="344"/>
+        <child id="343"/>
+        <child id="342"/>
+        <child id="341"/>
+        <child id="340"/>
+        <child id="339"/>
+        <child id="337"/>
+        <child id="336"/>
+        <child id="335"/>
+        <child id="334"/>
+        <child id="333"/>
+        <child id="332"/>
+        <child id="331"/>
+        <child id="330"/>
+        <child id="329"/>
+        <child id="328"/>
+        <child id="327"/>
+        <child id="326"/>
+        <child id="325"/>
         <child id="324"/>
         <child id="323"/>
         <child id="322"/>
@@ -1208,7 +1297,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="324"/>
+        <sel id="372"/>
       </selection>
     </object>
     <object class="WED_ObjPlacement" id="128" parent_id="4">
@@ -1513,23 +1602,263 @@
       <point latitude="65.466609313" longitude="-36.927600056" heading="44.89"/>
       <obj_placement custom_msl="0" msl="0.0" resource="models/size6.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="325" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489006943" longitude="-36.839952206" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="326" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489633133" longitude="-36.829652155" heading="224.92"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="327" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489038352" longitude="-36.839858849" heading="314.18"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="328" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489060473" longitude="-36.839937357" heading="278.14"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="329" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489066536" longitude="-36.839993378" heading="53.10"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="330" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489095867" longitude="-36.839918421" heading="74.46"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="331" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489094393" longitude="-36.839852931" heading="119.08"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="332" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489088002" longitude="-36.839755881" heading="145.88"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="333" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489038024" longitude="-36.839675795" heading="186.47"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="334" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.488990996" longitude="-36.839696310" heading="263.88"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="335" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.488990505" longitude="-36.839761799" heading="277.60"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="336" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.488989194" longitude="-36.839827288" heading="210.14"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="337" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy1.obj" locked="0" hidden="0"/>
+      <point latitude="65.489019344" longitude="-36.840148816" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="339" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.486393990" longitude="-36.833425888" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="340" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.485191032" longitude="-36.826350693" heading="89.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="341" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.483768520" longitude="-36.826726364" heading="218.11"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="342" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.483080598" longitude="-36.828306376" heading="201.77"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="343" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.480626072" longitude="-36.831879334" heading="263.13"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="344" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.480766116" longitude="-36.836958554" heading="288.43"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="345" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.482078373" longitude="-36.842001406" heading="333.44"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="346" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.483969741" longitude="-36.842379620" heading="359.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="347" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.486658351" longitude="-36.842608202" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="348" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.487532644" longitude="-36.848065893" heading="231.28"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="349" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.485516132" longitude="-36.848176251" heading="197.48"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="350" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.483436766" longitude="-36.849753966" heading="190.48"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="351" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.480654064" longitude="-36.850878984" heading="161.55"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="352" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.478309799" longitude="-36.848731467" heading="175.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="353" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.476653704" longitude="-36.844553828" heading="135.01"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="354" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.475576818" longitude="-36.833756908" heading="96.66"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="355" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.476359481" longitude="-36.819162124" heading="62.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="356" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.480236182" longitude="-36.813556963" heading="315.03"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="357" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.483002968" longitude="-36.818410591" heading="315.03"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="358" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.482721194" longitude="-36.826763530" heading="164.18"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="359" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.479641940" longitude="-36.823902934" heading="98.75"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="360" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.480095492" longitude="-36.817281572" heading="198.95"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="361" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.477703840" longitude="-36.812955226" heading="110.25"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="362" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.476859426" longitude="-36.805394169" heading="21.24"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="363" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.479844951" longitude="-36.803587193" heading="330.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="364" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.484097190" longitude="-36.812277361" heading="343.03"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="365" parent_id="4">
+      <children/>
+      <hierarchy name="bigboy4.obj" locked="0" hidden="0"/>
+      <point latitude="65.485191391" longitude="-36.811487016" heading="0.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="models/bigboy4.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed"/>
     <pref name="doc/export_target" value="7"/>
     <pref name="doc/xml_compatibility" value="205"/>
     <pref name="export/last" value="+60-040/+65-038.dsf +60-040/+65-037.dsf"/>
-    <pref name="map/east" value="-36.675720"/>
+    <pref name="map/east" value="-36.813538"/>
     <pref name="map/navaid_map_vis" value="0"/>
-    <pref name="map/north" value="65.521767"/>
+    <pref name="map/north" value="65.487122"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="4"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="0"/>
-    <pref name="map/south" value="65.468330"/>
+    <pref name="map/south" value="65.482887"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="-36.880569"/>
+    <pref name="map/west" value="-36.816963"/>
     <pref name="map/world_map_vis" value="1"/>
     <pref name="map_Airport Beacon_Kind" value="133"/>
     <pref name="map_Autogen_Autogen Height" value="10.000000"/>
@@ -1555,7 +1884,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="63"/>
     <pref name="map_Lines_Resource" value=""/>
-    <pref name="map_Objects_Object" value="models/size1.obj"/>
+    <pref name="map_Objects_Object" value="models/bigboy4.obj"/>
     <pref name="map_Objects_Show with" value="810"/>
     <pref name="map_Objects_max Heading" value="0.000000"/>
     <pref name="map_Objects_min Heading" value="0.000000"/>
@@ -1624,13 +1953,13 @@
     <pref name="map_preview_window/width" value="616"/>
     <pref name="map_preview_window/x_loc" value="1287"/>
     <pref name="map_preview_window/y_loc" value="727"/>
-    <pref name="window/height" value="1416"/>
+    <pref name="window/height" value="317"/>
     <pref name="window/main_split" value="204"/>
-    <pref name="window/main_split2" value="2473"/>
-    <pref name="window/prev_split" value="297"/>
-    <pref name="window/prop_split" value="757"/>
-    <pref name="window/width" value="2560"/>
-    <pref name="window/x_loc" value="0"/>
-    <pref name="window/y_loc" value="0"/>
+    <pref name="window/main_split2" value="384"/>
+    <pref name="window/prev_split" value="287"/>
+    <pref name="window/prop_split" value="216"/>
+    <pref name="window/width" value="471"/>
+    <pref name="window/x_loc" value="997"/>
+    <pref name="window/y_loc" value="1077"/>
   </prefs>
 </doc>
